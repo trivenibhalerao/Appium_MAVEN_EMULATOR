@@ -1,0 +1,18 @@
+package com.Appiummobile.maven.AppiumEmulatorTest;
+
+import junit.framework.JUnit4TestAdapter;
+import junit.framework.TestSuite;
+
+public class TestSuit
+{
+/*
+    public static TestSuite suite()
+    {
+    	System.out.println("TestSuite.suite Started...");
+        TestSuite suite = new TestSuite();
+        suite.addTest(new JUnit4TestAdapter(AppTests.class));
+        System.out.println("TestSuite.suite ENDS...");
+        return suite;
+     }
+     */
+}
